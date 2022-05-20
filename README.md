@@ -2,7 +2,7 @@
 
 ## Your task for today!
 
-Each member of your team should add the following items to this project, following the GitHub Group Workflow Document:
+All members of your team should add the following items to this project, following the GitHub Group Workflow Document:
 
 1. A piece of state in `App.js`. For example:
 
